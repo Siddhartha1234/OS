@@ -1,2 +1,2 @@
-Average time to enter CS : nan
-Average time to enter CS : 0.000000
+Average time to cross barrier semaphore : 0.000000
+Average time to cross barrier pthread : 0.812500
