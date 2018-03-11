@@ -1,0 +1,64 @@
+Going to sleep before the 1th barrier invocation by Thread 3 at time : 18:37:12
+Going to sleep before the 1th barrier invocation by Thread 3 at time : 18:37:12
+Going to sleep before the 1th barrier invocation by Thread 2 at time : 18:37:12
+Going to sleep before the 1th barrier invocation by Thread 4 at time : 18:37:12
+Before the 1th barrier invocation by Thread 3 at time : 18:37:12
+After the 1th barrier invocation by Thread 3 at time : 18:37:12
+1th CS Exit by Reader Thread 3 at 18:37:12
+Before the 1th barrier invocation by Thread 2 at time : 18:37:12
+After the 1th barrier invocation by Thread 2 at time : 18:37:12
+1th CS Exit by Reader Thread 2 at 18:37:12
+Before the 1th barrier invocation by Thread 3 at time : 18:37:12
+After the 1th barrier invocation by Thread 3 at time : 18:37:12
+1th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 2th barrier invocation by Thread 3 at time : 18:37:12
+Before the 1th barrier invocation by Thread 4 at time : 18:37:12
+After the 1th barrier invocation by Thread 4 at time : 18:37:12
+1th CS Exit by Reader Thread 4 at 18:37:12
+Going to sleep before the 2th barrier invocation by Thread 2 at time : 18:37:12
+Before the 2th barrier invocation by Thread 3 at time : 18:37:12
+After the 2th barrier invocation by Thread 3 at time : 18:37:12
+2th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 2th barrier invocation by Thread 4 at time : 18:37:12
+Going to sleep before the 2th barrier invocation by Thread 3 at time : 18:37:12
+Before the 2th barrier invocation by Thread 2 at time : 18:37:12
+After the 2th barrier invocation by Thread 2 at time : 18:37:12
+2th CS Exit by Reader Thread 2 at 18:37:12
+Before the 2th barrier invocation by Thread 4 at time : 18:37:12
+After the 2th barrier invocation by Thread 4 at time : 18:37:12
+2th CS Exit by Reader Thread 4 at 18:37:12
+Going to sleep before the 3th barrier invocation by Thread 3 at time : 18:37:12
+Before the 2th barrier invocation by Thread 3 at time : 18:37:12
+After the 2th barrier invocation by Thread 3 at time : 18:37:12
+2th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 3th barrier invocation by Thread 2 at time : 18:37:12
+Going to sleep before the 3th barrier invocation by Thread 4 at time : 18:37:12
+Before the 3th barrier invocation by Thread 3 at time : 18:37:12
+After the 3th barrier invocation by Thread 3 at time : 18:37:12
+3th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 3th barrier invocation by Thread 3 at time : 18:37:12
+Before the 3th barrier invocation by Thread 4 at time : 18:37:12
+After the 3th barrier invocation by Thread 4 at time : 18:37:12
+3th CS Exit by Reader Thread 4 at 18:37:12
+Before the 3th barrier invocation by Thread 2 at time : 18:37:12
+After the 3th barrier invocation by Thread 2 at time : 18:37:12
+3th CS Exit by Reader Thread 2 at 18:37:12
+Before the 3th barrier invocation by Thread 3 at time : 18:37:12
+After the 3th barrier invocation by Thread 3 at time : 18:37:12
+3th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 4th barrier invocation by Thread 3 at time : 18:37:12
+Going to sleep before the 4th barrier invocation by Thread 4 at time : 18:37:12
+Before the 4th barrier invocation by Thread 3 at time : 18:37:12
+Going to sleep before the 4th barrier invocation by Thread 3 at time : 18:37:12
+After the 4th barrier invocation by Thread 3 at time : 18:37:12
+4th CS Exit by Reader Thread 3 at 18:37:12
+Going to sleep before the 4th barrier invocation by Thread 2 at time : 18:37:12
+Before the 4th barrier invocation by Thread 4 at time : 18:37:12
+After the 4th barrier invocation by Thread 4 at time : 18:37:12
+4th CS Exit by Reader Thread 4 at 18:37:12
+Before the 4th barrier invocation by Thread 2 at time : 18:37:12
+After the 4th barrier invocation by Thread 2 at time : 18:37:12
+4th CS Exit by Reader Thread 2 at 18:37:12
+Before the 4th barrier invocation by Thread 3 at time : 18:37:12
+After the 4th barrier invocation by Thread 3 at time : 18:37:12
+4th CS Exit by Reader Thread 3 at 18:37:12
